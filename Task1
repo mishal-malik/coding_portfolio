@@ -1,0 +1,19 @@
+#include <iostream>
+
+int main() 
+{
+  std::cout << "**************************************************** \n";
+std::cout  <<  "\t      C C C \t \t S S S S \t \t   !! \n";
+std::cout  <<  "\t    C      C       S        S \t \t   !!\n";
+std::cout  <<  "\t   C              S           \t \t   !!\n";
+std::cout  <<  "\t  C                S         \t \t   !!\n";
+std::cout  <<  "\t  C                 S S S S            !!\n";
+std::cout  <<  "\t  C                         S          !!\n";
+std::cout  <<  "\t   C                         S         !!\n";
+std::cout  <<  "\t    C      C       S        S          \n";
+std::cout  <<  "\t      C C C          S S S S           OO\n";
+std::cout << "**************************************************** \n";
+std::cout << "\t_____________________________________________\n";
+std::cout << "\t_____________________________________________\n";
+std::cout << "\t \t  Computer Science is Cool Stuff!!!\n";
+}

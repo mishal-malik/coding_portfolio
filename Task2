@@ -1,0 +1,11 @@
+#include <iostream>
+
+int main() 
+{
+std::cout << "\t /\\_/\\ \t    ----- \n";
+std::cout << "\t( ' ' )\t  / Hello \\ \n";
+std::cout << "\t(  -  )\t<   Junior | \n";
+std::cout << "\t | | | \t  \\ Coder! / \n";
+std::cout << "\t(__|__)\t    -----\n";
+
+}

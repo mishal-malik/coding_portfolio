@@ -1,0 +1,25 @@
+#include <iostream>
+
+int main() 
+{
+  int num1= 2*1;
+std::cout << "Even Number 1:\t " <<num1 ;
+int num2= 2*2;
+std::cout << "\nEven Number 2:\t" <<num2 ;
+int num3= 2*3;
+std::cout << "\nEven Number 3: \t" <<num3 ;
+int num4= 2*4;
+std::cout << "\nEven Number 4: \t" <<num4;
+int num5= 2*5;
+std::cout << "\nEven Number 5: \t" <<num5;
+int num6= 2*6;
+std::cout << "\nEven Number 6: \t" <<num6;
+int num7= 2*7;
+std::cout << "\nEven Number 7: \t" <<num7;
+int num8= 2*8;
+std::cout << "\nEven Number 8: \t" <<num8;
+int num9= 2*9;
+std::cout << "\nEven Number 9: \t" <<num9;
+int num10= 2*10;
+std::cout << "\nEven Number 10: \t" <<num10;
+}
