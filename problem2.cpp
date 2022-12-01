@@ -1,5 +1,10 @@
 #include <iostream>
 using namespace std;
+/*Your mission, should you chose to accept it, is to write a program in C++ that prompts the user to
+enter their annual salary, accepts the input, calculates and displays the applicable wealth tax. A
+sample run of your program should be similar to the following:
+Please enter your annual salary: 1500000
+You must pay a tax of Rs. 60000*/
 
 int main() {
 int salary;
