@@ -1,5 +1,11 @@
 #include <iostream>
 using namespace std;
+/* At Monsters University (MU), a student is considered a staleman if they’ve taken upto
+30 credit hours, a phosphorous if they’ve taken between 31 and 60 credit hours (both inclusive), a
+janitor if they’ve taken between 61 and 90 credit hours or serious if you’ve taken more than 90
+credit hours. Write a program that prompts a monster to enter the number of credit hours that
+they’ve taken and outputs a greeting accordingly. 
+*/
 
 int main() {
 int credits;
