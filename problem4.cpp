@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//Write a C++ program using for loops to display the following two patterns:
 int main() {
 int star;
 int space;
